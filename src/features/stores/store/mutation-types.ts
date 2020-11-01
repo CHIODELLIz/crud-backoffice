@@ -1,0 +1,1 @@
+export const SAVE_ALL_STORES = 'SAVE_ALL_STORES'

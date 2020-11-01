@@ -1,0 +1,1 @@
+export const SAVE_ALL_PRODUCTS = 'SAVE_ALL_PRODUCTS'
